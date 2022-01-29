@@ -5,4 +5,5 @@ def try_me():
     
     
 if __name__ == "__main__":
-    print(try_me())    
+    print(try_me())
+    print(len(try_me()))    
